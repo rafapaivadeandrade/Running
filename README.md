@@ -1,12 +1,6 @@
-🏃 Runs 🏃
-
-</h1>
-
-  
-
 <h3  align="center">
 
-Runs App
+🏃 Runs App 🏃
 
 </h3>
 
