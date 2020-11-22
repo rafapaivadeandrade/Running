@@ -19,7 +19,7 @@ Running is a web project where the user can register its run, and all the runs c
 The web application is responsible for registering the runs, same as editing and removing by the client or the admin's page.<br/><br/><br/>
  
 Additional FULL CRUD Application and Validation:
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/51189721/98276354-9916ae80-1f74-11eb-89fc-ab98bd1bffb9.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51189721/98276354-9916ae80-1f74-11eb-89fc-ab98bd1bffb9.gif)
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/51189721/98276355-9a47db80-1f74-11eb-97f2-f11cba149cc7.gif)
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/51189721/98276341-9451fa80-1f74-11eb-8a3d-f23778e61d8b.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51189721/98276349-974ceb00-1f74-11eb-9a33-7962295f8a16.gif)
